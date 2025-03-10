@@ -112,3 +112,6 @@
 [submodule "WtCtS"]
 	path = WtCtS
 	url = https://github.com/DeveloppeurPascal/WtCtS.git
+[submodule "Link-Website-Generator"]
+	path = Link-Website-Generator
+	url = https://github.com/DeveloppeurPascal/Link-Website-Generator.git
