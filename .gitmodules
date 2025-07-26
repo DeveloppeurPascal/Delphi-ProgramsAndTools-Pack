@@ -112,3 +112,6 @@
 [submodule "Link-Website-Generator"]
 	path = Link-Website-Generator
 	url = https://github.com/DeveloppeurPascal/Link-Website-Generator.git
+[submodule "GroupProjUpdater"]
+	path = GroupProjUpdater
+	url = https://github.com/DeveloppeurPascal/GroupProjUpdater.git
