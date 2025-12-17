@@ -7,9 +7,6 @@
 [submodule "LogNPass-app"]
 	path = LogNPass-app
 	url = https://github.com/DeveloppeurPascal/LogNPass-app.git
-[submodule "Video-Title-Page-Generator"]
-	path = Video-Title-Page-Generator
-	url = https://github.com/DeveloppeurPascal/Video-Title-Page-Generator.git
 [submodule "Spritesheet-Splitter"]
 	path = Spritesheet-Splitter
 	url = https://github.com/DeveloppeurPascal/Spritesheet-Splitter.git
@@ -115,3 +112,6 @@
 [submodule "GooglePlayDeveloperBannerGenerator"]
 	path = GooglePlayDeveloperBannerGenerator
 	url = https://codeberg.org/PatrickPremartin/GooglePlayDeveloperBannerGenerator.git
+[submodule "Video-Title-Page-Generator"]
+	path = Video-Title-Page-Generator
+	url = https://codeberg.org/OlfSoftware/Video-Title-Page-Generator.git
