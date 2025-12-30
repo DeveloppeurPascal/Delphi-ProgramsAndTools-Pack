@@ -115,3 +115,6 @@
 [submodule "Video-Title-Page-Generator"]
 	path = Video-Title-Page-Generator
 	url = https://codeberg.org/OlfSoftware/Video-Title-Page-Generator.git
+[submodule "FMX-Styles-DM-Generator"]
+	path = FMX-Styles-DM-Generator
+	url = https://codeberg.org/OlfSoftware/FMX-Styles-DM-Generator.git
